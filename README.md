@@ -1,2 +1,0 @@
-# Clemens
-NoGame Client
